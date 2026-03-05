@@ -2,7 +2,7 @@
 def capitalize_sentence(text):
     print(text.upper())
 # Taking input from user
-line = input("Enter a sentence:  ")
+line1 = input("Enter a sentence:  ")
 
 # Calling the function
-capitalize_sentence(line)
+capitalize_sentence(line1)
